@@ -13,7 +13,6 @@ These are some important Messaging Queues.
 
 ## Popular tools in Messaging Queues:
 
-
 In Computer world the Messaging Queue Tools play an important role in seamless communication between various system components.
 
 1. Google Cloud Pub/Sub.
