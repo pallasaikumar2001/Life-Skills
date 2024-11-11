@@ -20,7 +20,8 @@ Break down your goals into actionable steps and start working on them.
 ### Stay Positive: 
 Maintain a positive attitude, even when things get tough.
 
-Learn Continuously: Always seek to improve your skills and knowledge.
+###Learn Continuously: 
+Always seek to improve your skills and knowledge.
 ## 5. My ideas to take action and build a Growth Mindset
 According to this manual, I do follow some ideas for the better Mindset. They are:-
 * I will understand each concept properly.
